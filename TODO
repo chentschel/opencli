@@ -1,0 +1,9 @@
+TODO: 
+	- register VTY commands from each subsys.
+	- get rid of all those warnings at compile time :)
+	- implement a timer subsystem. (ie. apply in login prompt)
+	- routing and interface configuration.
+
+	- IMPORTANT . FREE ARGV[0] , vty.c !!!
+	
+	- LOT OF WORK TO DO :)
